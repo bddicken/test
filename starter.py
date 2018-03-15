@@ -1,1 +1,1 @@
-# put your code in this file
+print('Hello World')
